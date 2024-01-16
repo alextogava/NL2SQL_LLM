@@ -4,4 +4,4 @@ Este repositório contém todo o código para a monografia "Conversão de Pergun
 
 ## Passos
 
-Este trabalho pode ser executado utilizando a plataforma Google Colab com um acelerador GPU, para reproduzir os resultados recomendamos executar o código em um espaço de trabalho semelhante. Assim criamos um notebook que pode ser encontrado em https://colab.research.google.com/drive/12A0TMtAHDIqJo8s5kdZ2NAMQVpNUs2bq?usp=sharing. O Notebook agora está pronto para uso.
+Este trabalho pode ser executado utilizando a plataforma Google Colab com um acelerador GPU, para reproduzir os resultados recomendamos executar o código em um espaço de trabalho semelhante. Assim criamos um notebook que pode ser encontrado em https://colab.research.google.com/drive/12A0TMtAHDIqJo8s5kdZ2NAMQVpNUs2bq?usp=sharing. Tanto o código quanto os datasets produzidos estão prontos para uso no notebook.
