@@ -4,12 +4,4 @@ Este repositório contém todo o código para a monografia "Conversão de Pergun
 
 ## Passos
 
-Este trabalho pode ser executado utilizando a plataforma Google Colab com um acelerador de tempo de execução GPU, para reproduzir os resultados recomendamos executar o código em um espaço de trabalho semelhante. Assim criamos um notebook que pode ser encontrado em: https://colab.research.google.com/drive/1qYJTbbEXYFVdY6xae9Zmt96hkeW8ZFrn Abaixo estão as instruções passo a passo para executar os modelos:
-
-	1. Visite https://drive.google.com/drive/folders/13f2MrdpieC9QGXM_DJnj2f1Hs6ZBh2ZT?usp=sharing. Este Drive contém todos os conjuntos de dados e pesos de modelo pré-treinados. Adicione um atalho à sua unidade. Esta etapa é . importante.
-     Abra o bloco de notas cujo link é fornecido acima.
-     Certifique-se de que o acelerador de tempo de execução esteja definido como GPU.
-     Monte seu Google Drive e clone este repositório no ambiente de execução, o código desta etapa já foi fornecido no notebook.
-     O Notebook agora está pronto para uso.
-
-Todos os requisitos do pacote foram mencionados no notebook.20
+Este trabalho pode ser executado utilizando a plataforma Google Colab com um acelerador GPU, para reproduzir os resultados recomendamos executar o código em um espaço de trabalho semelhante. Assim criamos um notebook que pode ser encontrado em https://colab.research.google.com/drive/12A0TMtAHDIqJo8s5kdZ2NAMQVpNUs2bq?usp=sharing. O Notebook agora está pronto para uso.
